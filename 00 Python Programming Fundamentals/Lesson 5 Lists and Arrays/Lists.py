@@ -11,6 +11,10 @@ print(numbers[0],numbers[3])
 print(listData[0],listData[1],listData[3])
 print(f"Lenght of numbers: {len(numbers)}\nLenght of listData: {len(listData)}")
 
+#Simple loop
+for data in listData:
+    print(data)
+
 #Append
 listData.append('One mode data')
 print(f"Lenght of numbers: {len(numbers)}\nLenght of listData: {len(listData)}")
@@ -36,6 +40,10 @@ if "Jonatan" in listData:
 
 #Remove
 listData.remove(True)
+print(listData)
+
+#Pop remove
+listData.pop(0)
 print(listData)
 
 #Only print a range in the list
