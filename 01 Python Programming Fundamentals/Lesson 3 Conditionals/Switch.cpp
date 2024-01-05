@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 /*
-Created by Jonatan Gomez Garcua on 04-01-2024
+Created by Jonatan Gomez Garcia on 04-01-2024
 */
 
 
